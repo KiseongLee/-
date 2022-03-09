@@ -19,15 +19,15 @@
 
 2. 그리디 & 구현 
   
-   (1) 그리디(Greedy)
-  - 강의 수강 (3/4)
-  - Git hub 정리(3/4)
-  - Git hub 정리 및 복습(3/5)
+  (1) 그리디(Greedy)
+- 강의 수강 (3/4)
+- Git hub 정리(3/4)
+- Git hub 정리 및 복습(3/5)
   
-   (2) 구현(Implementation)
-  - 강의 수강(3/4)
-  - Git hub 정리(3/6)
-  - Git hub 정리 및 복습(3/7)
+  (2) 구현(Implementation)
+- 강의 수강(3/4)
+- Git hub 정리(3/6)
+- Git hub 정리 및 복습(3/7)
  
 3. DFS & BFS
   - 강의 수강(3/7 ~ 3/8)
