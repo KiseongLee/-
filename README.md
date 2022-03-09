@@ -6,10 +6,10 @@
 
 (https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
 
-공부 순서 : (1) 강의 수강  
-          (2) 복습 및 Git hub 정리  
-          (3) 블로그 정리  
-          (4) 문제 처음부터 풀기 (주기 5일 정도)  
+공부 순서 :(1) 강의 수강  
+       (2) 복습 및 Git hub 정리  
+       (3) 블로그 정리  
+       (4) 문제 처음부터 풀기 (주기 5일 정도)  
 
 
 강의 순서 및 정리 내용
